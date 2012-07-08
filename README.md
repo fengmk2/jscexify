@@ -2,7 +2,7 @@ jscexify
 ========
 
 Jscexify all nodejs async API.
-[![Build Status](https://secure.travis-ci.org/fengmk2/ndir.png)](http://travis-ci.org/fengmk2/ndir)
+[![Build Status](https://secure.travis-ci.org/fengmk2/jscexify.png)](http://travis-ci.org/fengmk2/jscexify)
 
 What is [Jscex](https://github.com/JeffreyZhao/jscex): Asynchronous flow control in JavaScript, with JavaScript.
 
